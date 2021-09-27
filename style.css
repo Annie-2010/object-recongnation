@@ -1,0 +1,18 @@
+body
+{
+    color: rgba(248, 214, 204, 0.904);
+    background-color: darksalmon;
+}
+.heading{
+    width: 80%;
+    font-size: 25px;
+}
+#camera{
+    border: 2px dashed rgb(16, 4, 71);
+    width: 350px;
+    height: 300px;
+}
+.name_of_objects, #result_object_name, #result_object_accurasy
+{
+    color: yellow;
+}
